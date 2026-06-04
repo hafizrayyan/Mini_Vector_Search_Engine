@@ -24,6 +24,7 @@ For example, if your PDF talks about "neural networks", searching for **"how doe
 ---
 
 ## How to Use
+https://vector-search-engine-by-hafiz-rayyan.streamlit.app/
 
 1. Open the app in your browser
 2. Upload up to 5 PDF files
